@@ -4,6 +4,7 @@
 1. [Inserting](#inserting)
 2. [Cursor movement](#cursor-movement)
 3. [Editing](#editing)
+4. [Cut and Paste](#cut-and-paste)
 
 ---
 
