@@ -8,7 +8,7 @@
 5. [Search and Replace](#search-and-replace)
 6. [Visual Mode](#visual-mode)
 7. [Visual Commands](#visual-commands)
-8. [Others](#Others)
+8. [Others](#others)
 
 ---
 
