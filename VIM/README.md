@@ -78,7 +78,7 @@
 ```cw``` - change (replace) to the end of the word  
 ```c$``` - change (replace) to the end of the line  
 ```s``` - delete character and substitute text  
-```S``` - delete line and substitute text (same as cc)
+```S``` - delete line and substitute text (same as cc)  
 ```xp``` - transpose two letters (delete and paste)  
 ```u``` - undo  
 ```Ctrl + r``` - redo  
@@ -91,10 +91,10 @@
 ```yy``` - yank (copy) a line  
 ```2yy``` - yank (copy) 2 lines  
 ```yw``` - yank (copy) the characters of the word from the cursor position to the start of the next word  
-```y$``` - yank (copy) to end of line
-```p``` - put (paste) the clipboard after cursor
+```y$``` - yank (copy) to end of line  
+```p``` - put (paste) the clipboard after cursor  
 ```P``` - put (paste) before cursor  
-```dd``` - delete (cut) a line
+```dd``` - delete (cut) a line  
 ```2dd``` - delete (cut) 2 lines  
 ```dw``` - delete (cut) the characters of the word from the cursor position to the start of the next word  
 ```D``` - delete (cut) to the end of the line  
