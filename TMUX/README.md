@@ -50,6 +50,8 @@ tmux的主要元素分为三层：
 
 ```C-l``` clears both the screen and the tmux history
 
+```<prefix> t``` bring up clock
+
 
 
 
